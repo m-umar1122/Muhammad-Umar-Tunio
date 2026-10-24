@@ -1,0 +1,6 @@
+{
+  "name": "EXAMORA PAKISTAN",
+  "description": "Premium academic and competitive examination preparation platform for CSS, PMS, FPSC, PPSC, and NTS aspirants in Pakistan — featuring daily study notes, PDFs, interactive quizzes, past papers, and job updates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
